@@ -15,7 +15,7 @@
 
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1756729403,,"wq!"
+|2,0,1756735760,,"wq!"
 :q!
 |2,0,1756728963,,"q!"
 :q
@@ -57,32 +57,88 @@
 |3,0,5,1,1,0,1756728830,"COPY target/*.wa /usr/local/tomcat/webapps/ROOT.war"
 
 # File marks:
-'0  50  0  ~/project/Jenkinsfile
-|4,48,50,0,1756729403,"~/project/Jenkinsfile"
-'1  1  0  ~/project/Jenkinsfile
-|4,49,1,0,1756728963,"~/project/Jenkinsfile"
-'2  1  0  ~/project/Jenkinsfile
-|4,50,1,0,1756728963,"~/project/Jenkinsfile"
-'3  13  26  ~/project/Dockerfile
-|4,51,13,26,1756728869,"~/project/Dockerfile"
-'4  1  0  ~/project/jenkins
-|4,52,1,0,1756728119,"~/project/jenkins"
-'5  857  0  ~/src/index.html
-|4,53,857,0,1756726275,"~/src/index.html"
-'6  64  25  /etc/ssh/sshd_config
-|4,54,64,25,1756709543,"/etc/ssh/sshd_config"
-'7  1  0  /etc/ssh/sshd-config
-|4,55,1,0,1756709320,"/etc/ssh/sshd-config"
-'8  101  31  /etc/sudoers.tmp
-|4,56,101,31,1756708920,"/etc/sudoers.tmp"
-'9  1  0  ~/sudo
-|4,57,1,0,1756708454,"~/sudo"
+'0  1  0  ~/src/jenkins
+|4,48,1,0,1756735760,"~/src/jenkins"
+'1  1  0  ~/src/docker
+|4,49,1,0,1756735723,"~/src/docker"
+'2  857  0  ~/src/index.html
+|4,50,857,0,1756735706,"~/src/index.html"
+'3  50  0  ~/project/Jenkinsfile
+|4,51,50,0,1756729403,"~/project/Jenkinsfile"
+'4  1  0  ~/project/Jenkinsfile
+|4,52,1,0,1756728963,"~/project/Jenkinsfile"
+'5  1  0  ~/project/Jenkinsfile
+|4,53,1,0,1756728963,"~/project/Jenkinsfile"
+'6  13  26  ~/project/Dockerfile
+|4,54,13,26,1756728869,"~/project/Dockerfile"
+'7  1  0  ~/project/jenkins
+|4,55,1,0,1756728119,"~/project/jenkins"
+'8  857  0  ~/src/index.html
+|4,56,857,0,1756726275,"~/src/index.html"
+'9  64  25  /etc/ssh/sshd_config
+|4,57,64,25,1756709543,"/etc/ssh/sshd_config"
 
 # Jumplist (newest first):
+-'  1  0  ~/src/jenkins
+|4,39,1,0,1756735760,"~/src/jenkins"
+-'  1  0  ~/src/docker
+|4,39,1,0,1756735723,"~/src/docker"
+-'  1  0  ~/src/docker
+|4,39,1,0,1756735723,"~/src/docker"
+-'  857  0  ~/src/index.html
+|4,39,857,0,1756735706,"~/src/index.html"
+-'  857  0  ~/src/index.html
+|4,39,857,0,1756735706,"~/src/index.html"
+-'  857  0  ~/src/index.html
+|4,39,857,0,1756735706,"~/src/index.html"
+-'  857  0  ~/src/index.html
+|4,39,857,0,1756735706,"~/src/index.html"
+-'  50  0  ~/project/Jenkinsfile
+|4,39,50,0,1756729403,"~/project/Jenkinsfile"
+-'  50  0  ~/project/Jenkinsfile
+|4,39,50,0,1756729403,"~/project/Jenkinsfile"
+-'  50  0  ~/project/Jenkinsfile
+|4,39,50,0,1756729403,"~/project/Jenkinsfile"
+-'  50  0  ~/project/Jenkinsfile
+|4,39,50,0,1756729403,"~/project/Jenkinsfile"
+-'  50  0  ~/project/Jenkinsfile
+|4,39,50,0,1756729403,"~/project/Jenkinsfile"
+-'  50  0  ~/project/Jenkinsfile
+|4,39,50,0,1756729403,"~/project/Jenkinsfile"
+-'  50  0  ~/project/Jenkinsfile
+|4,39,50,0,1756729403,"~/project/Jenkinsfile"
 -'  50  0  ~/project/Jenkinsfile
 |4,39,50,0,1756729403,"~/project/Jenkinsfile"
 -'  1  0  ~/project/Jenkinsfile
 |4,39,1,0,1756729150,"~/project/Jenkinsfile"
+-'  1  0  ~/project/Jenkinsfile
+|4,39,1,0,1756729150,"~/project/Jenkinsfile"
+-'  1  0  ~/project/Jenkinsfile
+|4,39,1,0,1756729150,"~/project/Jenkinsfile"
+-'  1  0  ~/project/Jenkinsfile
+|4,39,1,0,1756729150,"~/project/Jenkinsfile"
+-'  1  0  ~/project/Jenkinsfile
+|4,39,1,0,1756729150,"~/project/Jenkinsfile"
+-'  1  0  ~/project/Jenkinsfile
+|4,39,1,0,1756729150,"~/project/Jenkinsfile"
+-'  1  0  ~/project/Jenkinsfile
+|4,39,1,0,1756729150,"~/project/Jenkinsfile"
+-'  1  0  ~/project/Jenkinsfile
+|4,39,1,0,1756729150,"~/project/Jenkinsfile"
+-'  1  0  ~/project/Jenkinsfile
+|4,39,1,0,1756728963,"~/project/Jenkinsfile"
+-'  1  0  ~/project/Jenkinsfile
+|4,39,1,0,1756728963,"~/project/Jenkinsfile"
+-'  1  0  ~/project/Jenkinsfile
+|4,39,1,0,1756728963,"~/project/Jenkinsfile"
+-'  1  0  ~/project/Jenkinsfile
+|4,39,1,0,1756728963,"~/project/Jenkinsfile"
+-'  1  0  ~/project/Jenkinsfile
+|4,39,1,0,1756728963,"~/project/Jenkinsfile"
+-'  1  0  ~/project/Jenkinsfile
+|4,39,1,0,1756728963,"~/project/Jenkinsfile"
+-'  1  0  ~/project/Jenkinsfile
+|4,39,1,0,1756728963,"~/project/Jenkinsfile"
 -'  1  0  ~/project/Jenkinsfile
 |4,39,1,0,1756728963,"~/project/Jenkinsfile"
 -'  13  26  ~/project/Dockerfile
@@ -93,6 +149,118 @@
 |4,39,13,26,1756728869,"~/project/Dockerfile"
 -'  13  26  ~/project/Dockerfile
 |4,39,13,26,1756728869,"~/project/Dockerfile"
+-'  13  26  ~/project/Dockerfile
+|4,39,13,26,1756728869,"~/project/Dockerfile"
+-'  13  26  ~/project/Dockerfile
+|4,39,13,26,1756728869,"~/project/Dockerfile"
+-'  13  26  ~/project/Dockerfile
+|4,39,13,26,1756728869,"~/project/Dockerfile"
+-'  13  26  ~/project/Dockerfile
+|4,39,13,26,1756728869,"~/project/Dockerfile"
+-'  13  26  ~/project/Dockerfile
+|4,39,13,26,1756728869,"~/project/Dockerfile"
+-'  13  26  ~/project/Dockerfile
+|4,39,13,26,1756728869,"~/project/Dockerfile"
+-'  13  26  ~/project/Dockerfile
+|4,39,13,26,1756728869,"~/project/Dockerfile"
+-'  13  26  ~/project/Dockerfile
+|4,39,13,26,1756728869,"~/project/Dockerfile"
+-'  13  26  ~/project/Dockerfile
+|4,39,13,26,1756728869,"~/project/Dockerfile"
+-'  13  26  ~/project/Dockerfile
+|4,39,13,26,1756728869,"~/project/Dockerfile"
+-'  13  26  ~/project/Dockerfile
+|4,39,13,26,1756728869,"~/project/Dockerfile"
+-'  13  26  ~/project/Dockerfile
+|4,39,13,26,1756728869,"~/project/Dockerfile"
+-'  13  26  ~/project/Dockerfile
+|4,39,13,26,1756728869,"~/project/Dockerfile"
+-'  13  26  ~/project/Dockerfile
+|4,39,13,26,1756728869,"~/project/Dockerfile"
+-'  13  26  ~/project/Dockerfile
+|4,39,13,26,1756728869,"~/project/Dockerfile"
+-'  13  26  ~/project/Dockerfile
+|4,39,13,26,1756728869,"~/project/Dockerfile"
+-'  13  26  ~/project/Dockerfile
+|4,39,13,26,1756728869,"~/project/Dockerfile"
+-'  13  26  ~/project/Dockerfile
+|4,39,13,26,1756728869,"~/project/Dockerfile"
+-'  13  26  ~/project/Dockerfile
+|4,39,13,26,1756728869,"~/project/Dockerfile"
+-'  13  26  ~/project/Dockerfile
+|4,39,13,26,1756728869,"~/project/Dockerfile"
+-'  13  26  ~/project/Dockerfile
+|4,39,13,26,1756728869,"~/project/Dockerfile"
+-'  13  26  ~/project/Dockerfile
+|4,39,13,26,1756728869,"~/project/Dockerfile"
+-'  13  26  ~/project/Dockerfile
+|4,39,13,26,1756728869,"~/project/Dockerfile"
+-'  13  26  ~/project/Dockerfile
+|4,39,13,26,1756728869,"~/project/Dockerfile"
+-'  13  26  ~/project/Dockerfile
+|4,39,13,26,1756728869,"~/project/Dockerfile"
+-'  13  26  ~/project/Dockerfile
+|4,39,13,26,1756728869,"~/project/Dockerfile"
+-'  13  26  ~/project/Dockerfile
+|4,39,13,26,1756728869,"~/project/Dockerfile"
+-'  13  26  ~/project/Dockerfile
+|4,39,13,26,1756728869,"~/project/Dockerfile"
+-'  1  0  ~/project/Dockerfile
+|4,39,1,0,1756728401,"~/project/Dockerfile"
+-'  1  0  ~/project/Dockerfile
+|4,39,1,0,1756728401,"~/project/Dockerfile"
+-'  1  0  ~/project/Dockerfile
+|4,39,1,0,1756728401,"~/project/Dockerfile"
+-'  1  0  ~/project/Dockerfile
+|4,39,1,0,1756728401,"~/project/Dockerfile"
+-'  1  0  ~/project/Dockerfile
+|4,39,1,0,1756728401,"~/project/Dockerfile"
+-'  1  0  ~/project/Dockerfile
+|4,39,1,0,1756728401,"~/project/Dockerfile"
+-'  1  0  ~/project/Dockerfile
+|4,39,1,0,1756728401,"~/project/Dockerfile"
+-'  1  0  ~/project/Dockerfile
+|4,39,1,0,1756728401,"~/project/Dockerfile"
+-'  1  0  ~/project/Dockerfile
+|4,39,1,0,1756728401,"~/project/Dockerfile"
+-'  1  0  ~/project/Dockerfile
+|4,39,1,0,1756728401,"~/project/Dockerfile"
+-'  1  0  ~/project/Dockerfile
+|4,39,1,0,1756728401,"~/project/Dockerfile"
+-'  1  0  ~/project/Dockerfile
+|4,39,1,0,1756728401,"~/project/Dockerfile"
+-'  1  0  ~/project/Dockerfile
+|4,39,1,0,1756728401,"~/project/Dockerfile"
+-'  1  0  ~/project/Dockerfile
+|4,39,1,0,1756728401,"~/project/Dockerfile"
+-'  1  0  ~/project/Dockerfile
+|4,39,1,0,1756728401,"~/project/Dockerfile"
+-'  1  0  ~/project/Dockerfile
+|4,39,1,0,1756728401,"~/project/Dockerfile"
+-'  1  0  ~/project/Dockerfile
+|4,39,1,0,1756728401,"~/project/Dockerfile"
+-'  1  0  ~/project/Dockerfile
+|4,39,1,0,1756728401,"~/project/Dockerfile"
+-'  1  0  ~/project/Dockerfile
+|4,39,1,0,1756728401,"~/project/Dockerfile"
+-'  1  0  ~/project/Dockerfile
+|4,39,1,0,1756728401,"~/project/Dockerfile"
+-'  1  0  ~/project/Dockerfile
+|4,39,1,0,1756728401,"~/project/Dockerfile"
+-'  1  0  ~/project/Dockerfile
+|4,39,1,0,1756728401,"~/project/Dockerfile"
+-'  1  0  ~/project/Dockerfile
+|4,39,1,0,1756728401,"~/project/Dockerfile"
+-'  1  0  ~/project/Dockerfile
+|4,39,1,0,1756728401,"~/project/Dockerfile"
+-'  1  0  ~/project/Dockerfile
+|4,39,1,0,1756728401,"~/project/Dockerfile"
+-'  1  0  ~/project/Dockerfile
+|4,39,1,0,1756728401,"~/project/Dockerfile"
+-'  1  0  ~/project/Dockerfile
+|4,39,1,0,1756728401,"~/project/Dockerfile"
+-'  1  0  ~/project/Dockerfile
+|4,39,1,0,1756728401,"~/project/Dockerfile"
 -'  1  0  ~/project/Dockerfile
 |4,39,1,0,1756728401,"~/project/Dockerfile"
 -'  1  0  ~/project/Dockerfile
@@ -111,176 +279,25 @@
 |4,39,1,0,1756728119,"~/project/jenkins"
 -'  1  0  ~/project/jenkins
 |4,39,1,0,1756728119,"~/project/jenkins"
--'  1  0  ~/project/jenkins
-|4,39,1,0,1756728119,"~/project/jenkins"
--'  1  0  ~/project/jenkins
-|4,39,1,0,1756728119,"~/project/jenkins"
--'  1  0  ~/project/jenkins
-|4,39,1,0,1756728119,"~/project/jenkins"
--'  857  0  ~/src/index.html
-|4,39,857,0,1756726275,"~/src/index.html"
--'  857  0  ~/src/index.html
-|4,39,857,0,1756726275,"~/src/index.html"
--'  857  0  ~/src/index.html
-|4,39,857,0,1756726275,"~/src/index.html"
--'  857  0  ~/src/index.html
-|4,39,857,0,1756726275,"~/src/index.html"
--'  857  0  ~/src/index.html
-|4,39,857,0,1756726275,"~/src/index.html"
--'  857  0  ~/src/index.html
-|4,39,857,0,1756726275,"~/src/index.html"
--'  857  0  ~/src/index.html
-|4,39,857,0,1756726275,"~/src/index.html"
--'  857  0  ~/src/index.html
-|4,39,857,0,1756726275,"~/src/index.html"
--'  857  0  ~/src/index.html
-|4,39,857,0,1756726275,"~/src/index.html"
--'  857  0  ~/src/index.html
-|4,39,857,0,1756726275,"~/src/index.html"
--'  857  0  ~/src/index.html
-|4,39,857,0,1756726275,"~/src/index.html"
--'  857  0  ~/src/index.html
-|4,39,857,0,1756726275,"~/src/index.html"
--'  857  0  ~/src/index.html
-|4,39,857,0,1756726275,"~/src/index.html"
--'  857  0  ~/src/index.html
-|4,39,857,0,1756726275,"~/src/index.html"
--'  857  0  ~/src/index.html
-|4,39,857,0,1756726275,"~/src/index.html"
--'  857  0  ~/src/index.html
-|4,39,857,0,1756726275,"~/src/index.html"
--'  1  0  ~/src/index.html
-|4,39,1,0,1756725302,"~/src/index.html"
--'  1  0  ~/src/index.html
-|4,39,1,0,1756725302,"~/src/index.html"
--'  1  0  ~/src/index.html
-|4,39,1,0,1756725302,"~/src/index.html"
--'  1  0  ~/src/index.html
-|4,39,1,0,1756725302,"~/src/index.html"
--'  1  0  ~/src/index.html
-|4,39,1,0,1756725302,"~/src/index.html"
--'  1  0  ~/src/index.html
-|4,39,1,0,1756725302,"~/src/index.html"
--'  1  0  ~/src/index.html
-|4,39,1,0,1756725302,"~/src/index.html"
--'  1  0  ~/src/index.html
-|4,39,1,0,1756725302,"~/src/index.html"
--'  1  0  ~/src/index.html
-|4,39,1,0,1756725302,"~/src/index.html"
--'  1  0  ~/src/index.html
-|4,39,1,0,1756725302,"~/src/index.html"
--'  1  0  ~/src/index.html
-|4,39,1,0,1756725302,"~/src/index.html"
--'  1  0  ~/src/index.html
-|4,39,1,0,1756725302,"~/src/index.html"
--'  1  0  ~/src/index.html
-|4,39,1,0,1756725302,"~/src/index.html"
--'  1  0  ~/src/index.html
-|4,39,1,0,1756725302,"~/src/index.html"
--'  1  0  ~/src/index.html
-|4,39,1,0,1756725302,"~/src/index.html"
--'  1  0  ~/src/index.html
-|4,39,1,0,1756725302,"~/src/index.html"
--'  64  25  /etc/ssh/sshd_config
-|4,39,64,25,1756709543,"/etc/ssh/sshd_config"
--'  64  25  /etc/ssh/sshd_config
-|4,39,64,25,1756709543,"/etc/ssh/sshd_config"
--'  64  25  /etc/ssh/sshd_config
-|4,39,64,25,1756709543,"/etc/ssh/sshd_config"
--'  64  25  /etc/ssh/sshd_config
-|4,39,64,25,1756709543,"/etc/ssh/sshd_config"
--'  64  25  /etc/ssh/sshd_config
-|4,39,64,25,1756709543,"/etc/ssh/sshd_config"
--'  64  25  /etc/ssh/sshd_config
-|4,39,64,25,1756709543,"/etc/ssh/sshd_config"
--'  64  25  /etc/ssh/sshd_config
-|4,39,64,25,1756709543,"/etc/ssh/sshd_config"
--'  64  25  /etc/ssh/sshd_config
-|4,39,64,25,1756709543,"/etc/ssh/sshd_config"
--'  64  25  /etc/ssh/sshd_config
-|4,39,64,25,1756709543,"/etc/ssh/sshd_config"
--'  64  25  /etc/ssh/sshd_config
-|4,39,64,25,1756709543,"/etc/ssh/sshd_config"
--'  64  25  /etc/ssh/sshd_config
-|4,39,64,25,1756709543,"/etc/ssh/sshd_config"
--'  64  25  /etc/ssh/sshd_config
-|4,39,64,25,1756709543,"/etc/ssh/sshd_config"
--'  64  25  /etc/ssh/sshd_config
-|4,39,64,25,1756709543,"/etc/ssh/sshd_config"
--'  64  25  /etc/ssh/sshd_config
-|4,39,64,25,1756709543,"/etc/ssh/sshd_config"
--'  64  25  /etc/ssh/sshd_config
-|4,39,64,25,1756709543,"/etc/ssh/sshd_config"
--'  64  25  /etc/ssh/sshd_config
-|4,39,64,25,1756709543,"/etc/ssh/sshd_config"
--'  64  25  /etc/ssh/sshd_config
-|4,39,64,25,1756709543,"/etc/ssh/sshd_config"
--'  64  25  /etc/ssh/sshd_config
-|4,39,64,25,1756709543,"/etc/ssh/sshd_config"
--'  64  25  /etc/ssh/sshd_config
-|4,39,64,25,1756709543,"/etc/ssh/sshd_config"
--'  64  25  /etc/ssh/sshd_config
-|4,39,64,25,1756709543,"/etc/ssh/sshd_config"
--'  64  25  /etc/ssh/sshd_config
-|4,39,64,25,1756709543,"/etc/ssh/sshd_config"
--'  64  25  /etc/ssh/sshd_config
-|4,39,64,25,1756709543,"/etc/ssh/sshd_config"
--'  64  25  /etc/ssh/sshd_config
-|4,39,64,25,1756709543,"/etc/ssh/sshd_config"
--'  64  25  /etc/ssh/sshd_config
-|4,39,64,25,1756709543,"/etc/ssh/sshd_config"
--'  64  25  /etc/ssh/sshd_config
-|4,39,64,25,1756709543,"/etc/ssh/sshd_config"
--'  64  25  /etc/ssh/sshd_config
-|4,39,64,25,1756709543,"/etc/ssh/sshd_config"
--'  64  25  /etc/ssh/sshd_config
-|4,39,64,25,1756709543,"/etc/ssh/sshd_config"
--'  64  25  /etc/ssh/sshd_config
-|4,39,64,25,1756709543,"/etc/ssh/sshd_config"
--'  64  25  /etc/ssh/sshd_config
-|4,39,64,25,1756709543,"/etc/ssh/sshd_config"
--'  64  25  /etc/ssh/sshd_config
-|4,39,64,25,1756709543,"/etc/ssh/sshd_config"
--'  64  25  /etc/ssh/sshd_config
-|4,39,64,25,1756709543,"/etc/ssh/sshd_config"
--'  64  25  /etc/ssh/sshd_config
-|4,39,64,25,1756709543,"/etc/ssh/sshd_config"
--'  1  0  /etc/ssh/sshd_config
-|4,39,1,0,1756709338,"/etc/ssh/sshd_config"
--'  1  0  /etc/ssh/sshd_config
-|4,39,1,0,1756709338,"/etc/ssh/sshd_config"
--'  1  0  /etc/ssh/sshd_config
-|4,39,1,0,1756709338,"/etc/ssh/sshd_config"
--'  1  0  /etc/ssh/sshd_config
-|4,39,1,0,1756709338,"/etc/ssh/sshd_config"
--'  1  0  /etc/ssh/sshd_config
-|4,39,1,0,1756709338,"/etc/ssh/sshd_config"
--'  1  0  /etc/ssh/sshd_config
-|4,39,1,0,1756709338,"/etc/ssh/sshd_config"
--'  1  0  /etc/ssh/sshd_config
-|4,39,1,0,1756709338,"/etc/ssh/sshd_config"
--'  1  0  /etc/ssh/sshd_config
-|4,39,1,0,1756709338,"/etc/ssh/sshd_config"
--'  1  0  /etc/ssh/sshd_config
-|4,39,1,0,1756709338,"/etc/ssh/sshd_config"
--'  1  0  /etc/ssh/sshd_config
-|4,39,1,0,1756709338,"/etc/ssh/sshd_config"
--'  1  0  /etc/ssh/sshd_config
-|4,39,1,0,1756709338,"/etc/ssh/sshd_config"
--'  1  0  /etc/ssh/sshd_config
-|4,39,1,0,1756709338,"/etc/ssh/sshd_config"
--'  1  0  /etc/ssh/sshd_config
-|4,39,1,0,1756709338,"/etc/ssh/sshd_config"
--'  1  0  /etc/ssh/sshd_config
-|4,39,1,0,1756709338,"/etc/ssh/sshd_config"
--'  1  0  /etc/ssh/sshd_config
-|4,39,1,0,1756709338,"/etc/ssh/sshd_config"
--'  1  0  /etc/ssh/sshd_config
-|4,39,1,0,1756709338,"/etc/ssh/sshd_config"
--'  1  0  /etc/ssh/sshd_config
-|4,39,1,0,1756709338,"/etc/ssh/sshd_config"
 
 # History of marks within files (newest to oldest):
+
+> ~/src/jenkins
+	*	1756735753	0
+	"	1	0
+
+> ~/src/docker
+	*	1756735716	0
+	"	1	0
+
+> ~/src/index.html
+	*	1756735701	0
+	"	857	0
+	^	857	0
+	.	857	0
+	+	856	110
+	+	858	0
+	+	857	0
 
 > ~/project/Jenkinsfile
 	*	1756729398	0
@@ -305,15 +322,6 @@
 	^	1	0
 	.	1	0
 	+	1	0
-
-> ~/src/index.html
-	*	1756726269	0
-	"	857	0
-	^	857	0
-	.	857	0
-	+	856	110
-	+	858	0
-	+	857	0
 
 > /etc/ssh/sshd_config
 	*	1756709536	0
