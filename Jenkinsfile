@@ -4,47 +4,29 @@ pipeline {
     stages {
         stage('Checkout') {
             steps {
-                // Checkout code from main branch
-                git branch: 'main', url: 'https://github.com/kalyanpd/project.git'
-
-                // Verify files
-                sh 'pwd'
+                checkout scm
                 sh 'ls -l'
-                sh 'ls -R'
-            }
-        }
-
-        stage('Build WAR') {
-            steps {
-                sh 'mvn clean package'
             }
         }
 
         stage('Build Docker Image') {
             steps {
-                sh '''
-                    docker rmi -f hotstar:v1 || true
-                    docker build -t hotstar:v1 -f /var/lib/jenkins/workspace/hotspot/Dockerfile /var/lib/jenkins/workspace/hotspot
-                '''
+                script {
+                    sh 'docker build -t myapp:latest .'
+                }
             }
         }
 
-        stage('Deploy Container') {
+        stage('Run Container') {
             steps {
-                sh '''
-                    docker rm -f con8 || true
-                    docker run -d --name con8 -p 8008:8080 hotstar:v1
-                '''
-            }
-        }
-
-        stage('Docker Swarm Deploy') {
-            steps {
-                sh '''
-                    docker service update --image hotstar:v1 hotstarserv || \
-                    docker service create --name hotstarserv -p 8009:8080 --replicas=10 hotstar:v1
-                '''
+                script {
+                    // Stop old container if running
+                    sh 'docker rm -f myapp || true'
+                    // Run new container
+                    sh 'docker run -d --name myapp -p 8080:8080 myapp:latest'
+                }
             }
         }
     }
 }
+
